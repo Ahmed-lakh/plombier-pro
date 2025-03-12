@@ -572,7 +572,7 @@
                             /* Ajustement pour les écrans de téléphone */
                             @media (max-width: 768px) {
                                 .logo-maroc {
-                                    width: 50px; /* Réduit légèrement la taille sur mobile */
+                                    width: 40px; /* Réduit légèrement la taille sur mobile */
                                     bottom: 15px;
                                     right: 5px;
                                 }
